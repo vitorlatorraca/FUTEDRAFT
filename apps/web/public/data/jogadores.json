@@ -1,0 +1,281 @@
+{
+  "selecoes": [
+    {
+      "id": "brasil-2002",
+      "pais": "Brasil",
+      "ano": 2002,
+      "jogadores": [
+        { "id": "br02-1", "nome": "Marcos", "posicao": "GOL", "forca": 88, "velocidade": 65, "tecnica": 82, "selecao": "Brasil", "pais": "Brasil", "anoCopa": 2002 },
+        { "id": "br02-2", "nome": "Cafu", "posicao": "LD", "forca": 92, "velocidade": 88, "tecnica": 85, "selecao": "Brasil", "pais": "Brasil", "anoCopa": 2002 },
+        { "id": "br02-3", "nome": "Lúcio", "posicao": "ZAG", "forca": 90, "velocidade": 78, "tecnica": 80, "selecao": "Brasil", "pais": "Brasil", "anoCopa": 2002 },
+        { "id": "br02-4", "nome": "Roque Júnior", "posicao": "ZAG", "forca": 86, "velocidade": 75, "tecnica": 78, "selecao": "Brasil", "pais": "Brasil", "anoCopa": 2002 },
+        { "id": "br02-5", "nome": "Roberto Carlos", "posicao": "LE", "forca": 93, "velocidade": 90, "tecnica": 88, "selecao": "Brasil", "pais": "Brasil", "anoCopa": 2002 },
+        { "id": "br02-6", "nome": "Gilberto Silva", "posicao": "VOL", "forca": 89, "velocidade": 80, "tecnica": 84, "selecao": "Brasil", "pais": "Brasil", "anoCopa": 2002 },
+        { "id": "br02-7", "nome": "Kléberson", "posicao": "MC", "forca": 85, "velocidade": 82, "tecnica": 83, "selecao": "Brasil", "pais": "Brasil", "anoCopa": 2002 },
+        { "id": "br02-8", "nome": "Ronaldinho", "posicao": "ME", "forca": 94, "velocidade": 88, "tecnica": 96, "selecao": "Brasil", "pais": "Brasil", "anoCopa": 2002 },
+        { "id": "br02-9", "nome": "Rivaldo", "posicao": "ME", "posicaoAlternativa": "CA", "forca": 93, "velocidade": 85, "tecnica": 94, "selecao": "Brasil", "pais": "Brasil", "anoCopa": 2002 },
+        { "id": "br02-10", "nome": "Ronaldo", "posicao": "CA", "forca": 96, "velocidade": 92, "tecnica": 93, "selecao": "Brasil", "pais": "Brasil", "anoCopa": 2002 },
+        { "id": "br02-11", "nome": "Denílson", "posicao": "AE", "posicaoAlternativa": "AD", "forca": 84, "velocidade": 90, "tecnica": 86, "selecao": "Brasil", "pais": "Brasil", "anoCopa": 2002 },
+        { "id": "br02-12", "nome": "Dida", "posicao": "GOL", "forca": 87, "velocidade": 68, "tecnica": 84, "selecao": "Brasil", "pais": "Brasil", "anoCopa": 2002 },
+        { "id": "br02-13", "nome": "Edmílson", "posicao": "ZAG", "forca": 84, "velocidade": 76, "tecnica": 79, "selecao": "Brasil", "pais": "Brasil", "anoCopa": 2002 },
+        { "id": "br02-14", "nome": "Juninho Paulista", "posicao": "MC", "forca": 86, "velocidade": 80, "tecnica": 88, "selecao": "Brasil", "pais": "Brasil", "anoCopa": 2002 },
+        { "id": "br02-15", "nome": "Vampeta", "posicao": "LD", "posicaoAlternativa": "MD", "forca": 82, "velocidade": 84, "tecnica": 80, "selecao": "Brasil", "pais": "Brasil", "anoCopa": 2002 }
+      ]
+    },
+    {
+      "id": "franca-2018",
+      "pais": "França",
+      "ano": 2018,
+      "jogadores": [
+        { "id": "fr18-1", "nome": "Lloris", "posicao": "GOL", "forca": 89, "velocidade": 70, "tecnica": 85, "selecao": "França", "pais": "França", "anoCopa": 2018 },
+        { "id": "fr18-2", "nome": "Pavard", "posicao": "LD", "posicaoAlternativa": "ZAG", "forca": 86, "velocidade": 82, "tecnica": 83, "selecao": "França", "pais": "França", "anoCopa": 2018 },
+        { "id": "fr18-3", "nome": "Varane", "posicao": "ZAG", "forca": 91, "velocidade": 85, "tecnica": 84, "selecao": "França", "pais": "França", "anoCopa": 2018 },
+        { "id": "fr18-4", "nome": "Umtiti", "posicao": "ZAG", "forca": 88, "velocidade": 80, "tecnica": 82, "selecao": "França", "pais": "França", "anoCopa": 2018 },
+        { "id": "fr18-5", "nome": "Hernández", "posicao": "LE", "forca": 85, "velocidade": 86, "tecnica": 82, "selecao": "França", "pais": "França", "anoCopa": 2018 },
+        { "id": "fr18-6", "nome": "Kanté", "posicao": "VOL", "forca": 92, "velocidade": 88, "tecnica": 86, "selecao": "França", "pais": "França", "anoCopa": 2018 },
+        { "id": "fr18-7", "nome": "Pogba", "posicao": "MC", "forca": 90, "velocidade": 82, "tecnica": 91, "selecao": "França", "pais": "França", "anoCopa": 2018 },
+        { "id": "fr18-8", "nome": "Matuidi", "posicao": "MC", "posicaoAlternativa": "MD", "forca": 87, "velocidade": 84, "tecnica": 84, "selecao": "França", "pais": "França", "anoCopa": 2018 },
+        { "id": "fr18-9", "nome": "Griezmann", "posicao": "CA", "posicaoAlternativa": "ME", "forca": 92, "velocidade": 86, "tecnica": 90, "selecao": "França", "pais": "França", "anoCopa": 2018 },
+        { "id": "fr18-10", "nome": "Mbappé", "posicao": "AE", "posicaoAlternativa": "CA", "forca": 93, "velocidade": 97, "tecnica": 90, "selecao": "França", "pais": "França", "anoCopa": 2018 },
+        { "id": "fr18-11", "nome": "Giroud", "posicao": "CA", "forca": 86, "velocidade": 78, "tecnica": 84, "selecao": "França", "pais": "França", "anoCopa": 2018 },
+        { "id": "fr18-12", "nome": "Mandanda", "posicao": "GOL", "forca": 84, "velocidade": 68, "tecnica": 82, "selecao": "França", "pais": "França", "anoCopa": 2018 },
+        { "id": "fr18-13", "nome": "Kimpembe", "posicao": "ZAG", "forca": 85, "velocidade": 82, "tecnica": 80, "selecao": "França", "pais": "França", "anoCopa": 2018 },
+        { "id": "fr18-14", "nome": "Lemar", "posicao": "ME", "posicaoAlternativa": "MD", "forca": 86, "velocidade": 88, "tecnica": 87, "selecao": "França", "pais": "França", "anoCopa": 2018 },
+        { "id": "fr18-15", "nome": "Fekir", "posicao": "ME", "forca": 87, "velocidade": 84, "tecnica": 89, "selecao": "França", "pais": "França", "anoCopa": 2018 }
+      ]
+    },
+    {
+      "id": "alemanha-2014",
+      "pais": "Alemanha",
+      "ano": 2014,
+      "jogadores": [
+        { "id": "de14-1", "nome": "Neuer", "posicao": "GOL", "forca": 94, "velocidade": 72, "tecnica": 88, "selecao": "Alemanha", "pais": "Alemanha", "anoCopa": 2014 },
+        { "id": "de14-2", "nome": "Lahm", "posicao": "LD", "posicaoAlternativa": "MD", "forca": 91, "velocidade": 84, "tecnica": 88, "selecao": "Alemanha", "pais": "Alemanha", "anoCopa": 2014 },
+        { "id": "de14-3", "nome": "Hummels", "posicao": "ZAG", "forca": 90, "velocidade": 76, "tecnica": 84, "selecao": "Alemanha", "pais": "Alemanha", "anoCopa": 2014 },
+        { "id": "de14-4", "nome": "Boateng", "posicao": "ZAG", "forca": 89, "velocidade": 80, "tecnica": 82, "selecao": "Alemanha", "pais": "Alemanha", "anoCopa": 2014 },
+        { "id": "de14-5", "nome": "Höwedes", "posicao": "LE", "posicaoAlternativa": "LD", "forca": 85, "velocidade": 80, "tecnica": 80, "selecao": "Alemanha", "pais": "Alemanha", "anoCopa": 2014 },
+        { "id": "de14-6", "nome": "Schweinsteiger", "posicao": "VOL", "posicaoAlternativa": "MC", "forca": 90, "velocidade": 78, "tecnica": 88, "selecao": "Alemanha", "pais": "Alemanha", "anoCopa": 2014 },
+        { "id": "de14-7", "nome": "Kroos", "posicao": "MC", "forca": 93, "velocidade": 80, "tecnica": 94, "selecao": "Alemanha", "pais": "Alemanha", "anoCopa": 2014 },
+        { "id": "de14-8", "nome": "Khedira", "posicao": "MC", "posicaoAlternativa": "VOL", "forca": 88, "velocidade": 82, "tecnica": 84, "selecao": "Alemanha", "pais": "Alemanha", "anoCopa": 2014 },
+        { "id": "de14-9", "nome": "Özil", "posicao": "ME", "forca": 91, "velocidade": 82, "tecnica": 93, "selecao": "Alemanha", "pais": "Alemanha", "anoCopa": 2014 },
+        { "id": "de14-10", "nome": "Müller", "posicao": "CA", "posicaoAlternativa": "AE", "forca": 90, "velocidade": 84, "tecnica": 86, "selecao": "Alemanha", "pais": "Alemanha", "anoCopa": 2014 },
+        { "id": "de14-11", "nome": "Götze", "posicao": "ME", "posicaoAlternativa": "CA", "forca": 88, "velocidade": 86, "tecnica": 90, "selecao": "Alemanha", "pais": "Alemanha", "anoCopa": 2014 },
+        { "id": "de14-12", "nome": "Weidenfeller", "posicao": "GOL", "forca": 85, "velocidade": 65, "tecnica": 82, "selecao": "Alemanha", "pais": "Alemanha", "anoCopa": 2014 },
+        { "id": "de14-13", "nome": "Mustafi", "posicao": "ZAG", "forca": 84, "velocidade": 78, "tecnica": 80, "selecao": "Alemanha", "pais": "Alemanha", "anoCopa": 2014 },
+        { "id": "de14-14", "nome": "Schürrle", "posicao": "AE", "posicaoAlternativa": "AD", "forca": 86, "velocidade": 88, "tecnica": 85, "selecao": "Alemanha", "pais": "Alemanha", "anoCopa": 2014 },
+        { "id": "de14-15", "nome": "Kramer", "posicao": "MC", "forca": 84, "velocidade": 82, "tecnica": 82, "selecao": "Alemanha", "pais": "Alemanha", "anoCopa": 2014 }
+      ]
+    },
+    {
+      "id": "argentina-2022",
+      "pais": "Argentina",
+      "ano": 2022,
+      "jogadores": [
+        { "id": "ar22-1", "nome": "Martínez", "posicao": "GOL", "forca": 90, "velocidade": 70, "tecnica": 86, "selecao": "Argentina", "pais": "Argentina", "anoCopa": 2022 },
+        { "id": "ar22-2", "nome": "Molina", "posicao": "LD", "forca": 86, "velocidade": 84, "tecnica": 82, "selecao": "Argentina", "pais": "Argentina", "anoCopa": 2022 },
+        { "id": "ar22-3", "nome": "Otamendi", "posicao": "ZAG", "forca": 88, "velocidade": 76, "tecnica": 80, "selecao": "Argentina", "pais": "Argentina", "anoCopa": 2022 },
+        { "id": "ar22-4", "nome": "Romero", "posicao": "ZAG", "forca": 87, "velocidade": 78, "tecnica": 82, "selecao": "Argentina", "pais": "Argentina", "anoCopa": 2022 },
+        { "id": "ar22-5", "nome": "Tagliafico", "posicao": "LE", "forca": 85, "velocidade": 84, "tecnica": 82, "selecao": "Argentina", "pais": "Argentina", "anoCopa": 2022 },
+        { "id": "ar22-6", "nome": "De Paul", "posicao": "MC", "posicaoAlternativa": "MD", "forca": 89, "velocidade": 84, "tecnica": 86, "selecao": "Argentina", "pais": "Argentina", "anoCopa": 2022 },
+        { "id": "ar22-7", "nome": "Fernández", "posicao": "MC", "forca": 88, "velocidade": 82, "tecnica": 88, "selecao": "Argentina", "pais": "Argentina", "anoCopa": 2022 },
+        { "id": "ar22-8", "nome": "Mac Allister", "posicao": "MC", "posicaoAlternativa": "ME", "forca": 87, "velocidade": 82, "tecnica": 88, "selecao": "Argentina", "pais": "Argentina", "anoCopa": 2022 },
+        { "id": "ar22-9", "nome": "Messi", "posicao": "ME", "posicaoAlternativa": "CA", "forca": 97, "velocidade": 86, "tecnica": 98, "selecao": "Argentina", "pais": "Argentina", "anoCopa": 2022 },
+        { "id": "ar22-10", "nome": "Álvarez", "posicao": "CA", "posicaoAlternativa": "AE", "forca": 88, "velocidade": 88, "tecnica": 86, "selecao": "Argentina", "pais": "Argentina", "anoCopa": 2022 },
+        { "id": "ar22-11", "nome": "Di María", "posicao": "AE", "posicaoAlternativa": "AD", "forca": 90, "velocidade": 88, "tecnica": 91, "selecao": "Argentina", "pais": "Argentina", "anoCopa": 2022 },
+        { "id": "ar22-12", "nome": "Armani", "posicao": "GOL", "forca": 84, "velocidade": 68, "tecnica": 82, "selecao": "Argentina", "pais": "Argentina", "anoCopa": 2022 },
+        { "id": "ar22-13", "nome": "Acuña", "posicao": "LE", "posicaoAlternativa": "MD", "forca": 86, "velocidade": 86, "tecnica": 84, "selecao": "Argentina", "pais": "Argentina", "anoCopa": 2022 },
+        { "id": "ar22-14", "nome": "Paredes", "posicao": "VOL", "forca": 86, "velocidade": 78, "tecnica": 86, "selecao": "Argentina", "pais": "Argentina", "anoCopa": 2022 },
+        { "id": "ar22-15", "nome": "Lautaro", "posicao": "CA", "forca": 89, "velocidade": 86, "tecnica": 86, "selecao": "Argentina", "pais": "Argentina", "anoCopa": 2022 }
+      ]
+    },
+    {
+      "id": "italia-2006",
+      "pais": "Itália",
+      "ano": 2006,
+      "jogadores": [
+        { "id": "it06-1", "nome": "Buffon", "posicao": "GOL", "forca": 95, "velocidade": 68, "tecnica": 88, "selecao": "Itália", "pais": "Itália", "anoCopa": 2006 },
+        { "id": "it06-2", "nome": "Zambrotta", "posicao": "LD", "posicaoAlternativa": "MD", "forca": 88, "velocidade": 84, "tecnica": 84, "selecao": "Itália", "pais": "Itália", "anoCopa": 2006 },
+        { "id": "it06-3", "nome": "Cannavaro", "posicao": "ZAG", "forca": 94, "velocidade": 80, "tecnica": 84, "selecao": "Itália", "pais": "Itália", "anoCopa": 2006 },
+        { "id": "it06-4", "nome": "Nesta", "posicao": "ZAG", "forca": 93, "velocidade": 78, "tecnica": 86, "selecao": "Itália", "pais": "Itália", "anoCopa": 2006 },
+        { "id": "it06-5", "nome": "Grosso", "posicao": "LE", "forca": 86, "velocidade": 82, "tecnica": 82, "selecao": "Itália", "pais": "Itália", "anoCopa": 2006 },
+        { "id": "it06-6", "nome": "Gattuso", "posicao": "VOL", "forca": 90, "velocidade": 82, "tecnica": 82, "selecao": "Itália", "pais": "Itália", "anoCopa": 2006 },
+        { "id": "it06-7", "nome": "Pirlo", "posicao": "MC", "forca": 94, "velocidade": 76, "tecnica": 96, "selecao": "Itália", "pais": "Itália", "anoCopa": 2006 },
+        { "id": "it06-8", "nome": "Perrotta", "posicao": "MC", "posicaoAlternativa": "MD", "forca": 86, "velocidade": 84, "tecnica": 84, "selecao": "Itália", "pais": "Itália", "anoCopa": 2006 },
+        { "id": "it06-9", "nome": "Totti", "posicao": "ME", "forca": 92, "velocidade": 80, "tecnica": 94, "selecao": "Itália", "pais": "Itália", "anoCopa": 2006 },
+        { "id": "it06-10", "nome": "Toni", "posicao": "CA", "forca": 89, "velocidade": 80, "tecnica": 84, "selecao": "Itália", "pais": "Itália", "anoCopa": 2006 },
+        { "id": "it06-11", "nome": "Del Piero", "posicao": "AE", "posicaoAlternativa": "ME", "forca": 91, "velocidade": 82, "tecnica": 92, "selecao": "Itália", "pais": "Itália", "anoCopa": 2006 },
+        { "id": "it06-12", "nome": "De Sanctis", "posicao": "GOL", "forca": 84, "velocidade": 65, "tecnica": 82, "selecao": "Itália", "pais": "Itália", "anoCopa": 2006 },
+        { "id": "it06-13", "nome": "Barzagli", "posicao": "ZAG", "forca": 86, "velocidade": 76, "tecnica": 80, "selecao": "Itália", "pais": "Itália", "anoCopa": 2006 },
+        { "id": "it06-14", "nome": "Camoranesi", "posicao": "MD", "posicaoAlternativa": "AE", "forca": 87, "velocidade": 86, "tecnica": 86, "selecao": "Itália", "pais": "Itália", "anoCopa": 2006 },
+        { "id": "it06-15", "nome": "Iaquinta", "posicao": "CA", "forca": 85, "velocidade": 84, "tecnica": 84, "selecao": "Itália", "pais": "Itália", "anoCopa": 2006 }
+      ]
+    },
+    {
+      "id": "espanha-2010",
+      "pais": "Espanha",
+      "ano": 2010,
+      "jogadores": [
+        { "id": "es10-1", "nome": "Casillas", "posicao": "GOL", "forca": 92, "velocidade": 70, "tecnica": 86, "selecao": "Espanha", "pais": "Espanha", "anoCopa": 2010 },
+        { "id": "es10-2", "nome": "Ramos", "posicao": "ZAG", "posicaoAlternativa": "LD", "forca": 91, "velocidade": 84, "tecnica": 84, "selecao": "Espanha", "pais": "Espanha", "anoCopa": 2010 },
+        { "id": "es10-3", "nome": "Piqué", "posicao": "ZAG", "forca": 90, "velocidade": 78, "tecnica": 84, "selecao": "Espanha", "pais": "Espanha", "anoCopa": 2010 },
+        { "id": "es10-4", "nome": "Puyol", "posicao": "ZAG", "forca": 91, "velocidade": 78, "tecnica": 82, "selecao": "Espanha", "pais": "Espanha", "anoCopa": 2010 },
+        { "id": "es10-5", "nome": "Capdevila", "posicao": "LE", "forca": 85, "velocidade": 80, "tecnica": 82, "selecao": "Espanha", "pais": "Espanha", "anoCopa": 2010 },
+        { "id": "es10-6", "nome": "Busquets", "posicao": "VOL", "forca": 90, "velocidade": 78, "tecnica": 88, "selecao": "Espanha", "pais": "Espanha", "anoCopa": 2010 },
+        { "id": "es10-7", "nome": "Xavi", "posicao": "MC", "forca": 94, "velocidade": 78, "tecnica": 96, "selecao": "Espanha", "pais": "Espanha", "anoCopa": 2010 },
+        { "id": "es10-8", "nome": "Iniesta", "posicao": "ME", "posicaoAlternativa": "MC", "forca": 95, "velocidade": 84, "tecnica": 97, "selecao": "Espanha", "pais": "Espanha", "anoCopa": 2010 },
+        { "id": "es10-9", "nome": "Xabi Alonso", "posicao": "MC", "posicaoAlternativa": "VOL", "forca": 90, "velocidade": 78, "tecnica": 90, "selecao": "Espanha", "pais": "Espanha", "anoCopa": 2010 },
+        { "id": "es10-10", "nome": "Villa", "posicao": "CA", "forca": 91, "velocidade": 86, "tecnica": 88, "selecao": "Espanha", "pais": "Espanha", "anoCopa": 2010 },
+        { "id": "es10-11", "nome": "Pedro", "posicao": "AE", "posicaoAlternativa": "AD", "forca": 88, "velocidade": 90, "tecnica": 88, "selecao": "Espanha", "pais": "Espanha", "anoCopa": 2010 },
+        { "id": "es10-12", "nome": "Reina", "posicao": "GOL", "forca": 87, "velocidade": 68, "tecnica": 84, "selecao": "Espanha", "pais": "Espanha", "anoCopa": 2010 },
+        { "id": "es10-13", "nome": "Arbeloa", "posicao": "LD", "forca": 85, "velocidade": 82, "tecnica": 82, "selecao": "Espanha", "pais": "Espanha", "anoCopa": 2010 },
+        { "id": "es10-14", "nome": "Torres", "posicao": "CA", "forca": 88, "velocidade": 88, "tecnica": 86, "selecao": "Espanha", "pais": "Espanha", "anoCopa": 2010 },
+        { "id": "es10-15", "nome": "Silva", "posicao": "ME", "forca": 90, "velocidade": 86, "tecnica": 92, "selecao": "Espanha", "pais": "Espanha", "anoCopa": 2010 }
+      ]
+    },
+    {
+      "id": "portugal-2006",
+      "pais": "Portugal",
+      "ano": 2006,
+      "jogadores": [
+        { "id": "pt06-1", "nome": "Ricardo", "posicao": "GOL", "forca": 83, "velocidade": 68, "tecnica": 82, "selecao": "Portugal", "pais": "Portugal", "anoCopa": 2006 },
+        { "id": "pt06-2", "nome": "Miguel", "posicao": "LD", "forca": 82, "velocidade": 84, "tecnica": 80, "selecao": "Portugal", "pais": "Portugal", "anoCopa": 2006 },
+        { "id": "pt06-3", "nome": "Carvalho", "posicao": "ZAG", "forca": 86, "velocidade": 78, "tecnica": 82, "selecao": "Portugal", "pais": "Portugal", "anoCopa": 2006 },
+        { "id": "pt06-4", "nome": "Meira", "posicao": "ZAG", "forca": 80, "velocidade": 76, "tecnica": 78, "selecao": "Portugal", "pais": "Portugal", "anoCopa": 2006 },
+        { "id": "pt06-5", "nome": "Valente", "posicao": "LE", "forca": 79, "velocidade": 82, "tecnica": 78, "selecao": "Portugal", "pais": "Portugal", "anoCopa": 2006 },
+        { "id": "pt06-6", "nome": "Costinha", "posicao": "VOL", "forca": 82, "velocidade": 78, "tecnica": 82, "selecao": "Portugal", "pais": "Portugal", "anoCopa": 2006 },
+        { "id": "pt06-7", "nome": "Maniche", "posicao": "MC", "forca": 84, "velocidade": 82, "tecnica": 84, "selecao": "Portugal", "pais": "Portugal", "anoCopa": 2006 },
+        { "id": "pt06-8", "nome": "Deco", "posicao": "MC", "posicaoAlternativa": "ME", "forca": 87, "velocidade": 84, "tecnica": 90, "selecao": "Portugal", "pais": "Portugal", "anoCopa": 2006 },
+        { "id": "pt06-9", "nome": "Figo", "posicao": "MD", "posicaoAlternativa": "ME", "forca": 88, "velocidade": 84, "tecnica": 90, "selecao": "Portugal", "pais": "Portugal", "anoCopa": 2006 },
+        { "id": "pt06-10", "nome": "Ronaldo", "posicao": "AE", "posicaoAlternativa": "AD", "forca": 86, "velocidade": 90, "tecnica": 86, "selecao": "Portugal", "pais": "Portugal", "anoCopa": 2006 },
+        { "id": "pt06-11", "nome": "Pauleta", "posicao": "CA", "forca": 84, "velocidade": 80, "tecnica": 84, "selecao": "Portugal", "pais": "Portugal", "anoCopa": 2006 },
+        { "id": "pt06-12", "nome": "Quim", "posicao": "GOL", "forca": 74, "velocidade": 65, "tecnica": 74, "selecao": "Portugal", "pais": "Portugal", "anoCopa": 2006 }
+      ]
+    },
+    {
+      "id": "croacia-2018",
+      "pais": "Croácia",
+      "ano": 2018,
+      "jogadores": [
+        { "id": "hr18-1", "nome": "Subasic", "posicao": "GOL", "forca": 84, "velocidade": 68, "tecnica": 82, "selecao": "Croácia", "pais": "Croácia", "anoCopa": 2018 },
+        { "id": "hr18-2", "nome": "Vrsaljko", "posicao": "LD", "forca": 84, "velocidade": 86, "tecnica": 82, "selecao": "Croácia", "pais": "Croácia", "anoCopa": 2018 },
+        { "id": "hr18-3", "nome": "Lovren", "posicao": "ZAG", "forca": 85, "velocidade": 78, "tecnica": 80, "selecao": "Croácia", "pais": "Croácia", "anoCopa": 2018 },
+        { "id": "hr18-4", "nome": "Vida", "posicao": "ZAG", "forca": 83, "velocidade": 76, "tecnica": 78, "selecao": "Croácia", "pais": "Croácia", "anoCopa": 2018 },
+        { "id": "hr18-5", "nome": "Strinic", "posicao": "LE", "forca": 80, "velocidade": 82, "tecnica": 80, "selecao": "Croácia", "pais": "Croácia", "anoCopa": 2018 },
+        { "id": "hr18-6", "nome": "Rakitic", "posicao": "MC", "forca": 88, "velocidade": 82, "tecnica": 90, "selecao": "Croácia", "pais": "Croácia", "anoCopa": 2018 },
+        { "id": "hr18-7", "nome": "Modric", "posicao": "MC", "forca": 93, "velocidade": 84, "tecnica": 94, "selecao": "Croácia", "pais": "Croácia", "anoCopa": 2018 },
+        { "id": "hr18-8", "nome": "Brozovic", "posicao": "VOL", "forca": 86, "velocidade": 82, "tecnica": 86, "selecao": "Croácia", "pais": "Croácia", "anoCopa": 2018 },
+        { "id": "hr18-9", "nome": "Perisic", "posicao": "AE", "posicaoAlternativa": "AD", "forca": 87, "velocidade": 88, "tecnica": 86, "selecao": "Croácia", "pais": "Croácia", "anoCopa": 2018 },
+        { "id": "hr18-10", "nome": "Mandzukic", "posicao": "CA", "forca": 86, "velocidade": 84, "tecnica": 84, "selecao": "Croácia", "pais": "Croácia", "anoCopa": 2018 },
+        { "id": "hr18-11", "nome": "Rebic", "posicao": "AE", "forca": 84, "velocidade": 88, "tecnica": 82, "selecao": "Croácia", "pais": "Croácia", "anoCopa": 2018 }
+      ]
+    },
+    {
+      "id": "brasil-1970",
+      "pais": "Brasil",
+      "ano": 1970,
+      "jogadores": [
+        { "id": "br70-1", "nome": "Felix", "posicao": "GOL", "forca": 86, "velocidade": 65, "tecnica": 82, "selecao": "Brasil", "pais": "Brasil", "anoCopa": 1970 },
+        { "id": "br70-2", "nome": "Carlos Alberto", "posicao": "LD", "forca": 92, "velocidade": 88, "tecnica": 88, "selecao": "Brasil", "pais": "Brasil", "anoCopa": 1970 },
+        { "id": "br70-3", "nome": "Brito", "posicao": "ZAG", "forca": 86, "velocidade": 76, "tecnica": 80, "selecao": "Brasil", "pais": "Brasil", "anoCopa": 1970 },
+        { "id": "br70-4", "nome": "Piazza", "posicao": "ZAG", "forca": 88, "velocidade": 78, "tecnica": 84, "selecao": "Brasil", "pais": "Brasil", "anoCopa": 1970 },
+        { "id": "br70-5", "nome": "Everaldo", "posicao": "LE", "forca": 84, "velocidade": 84, "tecnica": 82, "selecao": "Brasil", "pais": "Brasil", "anoCopa": 1970 },
+        { "id": "br70-6", "nome": "Clodoaldo", "posicao": "MC", "forca": 87, "velocidade": 84, "tecnica": 86, "selecao": "Brasil", "pais": "Brasil", "anoCopa": 1970 },
+        { "id": "br70-7", "nome": "Gerson", "posicao": "MC", "forca": 90, "velocidade": 82, "tecnica": 92, "selecao": "Brasil", "pais": "Brasil", "anoCopa": 1970 },
+        { "id": "br70-8", "nome": "Rivelino", "posicao": "ME", "forca": 91, "velocidade": 86, "tecnica": 92, "selecao": "Brasil", "pais": "Brasil", "anoCopa": 1970 },
+        { "id": "br70-9", "nome": "Jairzinho", "posicao": "AD", "posicaoAlternativa": "AE", "forca": 90, "velocidade": 92, "tecnica": 88, "selecao": "Brasil", "pais": "Brasil", "anoCopa": 1970 },
+        { "id": "br70-10", "nome": "Pelé", "posicao": "CA", "posicaoAlternativa": "ME", "forca": 98, "velocidade": 88, "tecnica": 98, "selecao": "Brasil", "pais": "Brasil", "anoCopa": 1970 },
+        { "id": "br70-11", "nome": "Tostao", "posicao": "CA", "forca": 91, "velocidade": 86, "tecnica": 90, "selecao": "Brasil", "pais": "Brasil", "anoCopa": 1970 }
+      ]
+    },
+    {
+      "id": "alemanha-2002",
+      "pais": "Alemanha",
+      "ano": 2002,
+      "jogadores": [
+        { "id": "de02-1", "nome": "Kahn", "posicao": "GOL", "forca": 92, "velocidade": 70, "tecnica": 86, "selecao": "Alemanha", "pais": "Alemanha", "anoCopa": 2002 },
+        { "id": "de02-2", "nome": "Frings", "posicao": "LD", "posicaoAlternativa": "MC", "forca": 84, "velocidade": 82, "tecnica": 84, "selecao": "Alemanha", "pais": "Alemanha", "anoCopa": 2002 },
+        { "id": "de02-3", "nome": "Metzelder", "posicao": "ZAG", "forca": 85, "velocidade": 78, "tecnica": 80, "selecao": "Alemanha", "pais": "Alemanha", "anoCopa": 2002 },
+        { "id": "de02-4", "nome": "Linke", "posicao": "ZAG", "forca": 86, "velocidade": 76, "tecnica": 82, "selecao": "Alemanha", "pais": "Alemanha", "anoCopa": 2002 },
+        { "id": "de02-5", "nome": "Nowotny", "posicao": "LE", "forca": 82, "velocidade": 80, "tecnica": 80, "selecao": "Alemanha", "pais": "Alemanha", "anoCopa": 2002 },
+        { "id": "de02-6", "nome": "Hamann", "posicao": "VOL", "forca": 84, "velocidade": 80, "tecnica": 84, "selecao": "Alemanha", "pais": "Alemanha", "anoCopa": 2002 },
+        { "id": "de02-7", "nome": "Ballack", "posicao": "MC", "forca": 90, "velocidade": 82, "tecnica": 88, "selecao": "Alemanha", "pais": "Alemanha", "anoCopa": 2002 },
+        { "id": "de02-8", "nome": "Schneider", "posicao": "ME", "forca": 86, "velocidade": 82, "tecnica": 88, "selecao": "Alemanha", "pais": "Alemanha", "anoCopa": 2002 },
+        { "id": "de02-9", "nome": "Neuville", "posicao": "AE", "forca": 84, "velocidade": 86, "tecnica": 84, "selecao": "Alemanha", "pais": "Alemanha", "anoCopa": 2002 },
+        { "id": "de02-10", "nome": "Klose", "posicao": "CA", "forca": 87, "velocidade": 84, "tecnica": 84, "selecao": "Alemanha", "pais": "Alemanha", "anoCopa": 2002 },
+        { "id": "de02-11", "nome": "Bierhoff", "posicao": "CA", "forca": 85, "velocidade": 80, "tecnica": 84, "selecao": "Alemanha", "pais": "Alemanha", "anoCopa": 2002 }
+      ]
+    },
+    {
+      "id": "franca-1998",
+      "pais": "França",
+      "ano": 1998,
+      "jogadores": [
+        { "id": "fr98-1", "nome": "Barthez", "posicao": "GOL", "forca": 88, "velocidade": 68, "tecnica": 84, "selecao": "França", "pais": "França", "anoCopa": 1998 },
+        { "id": "fr98-2", "nome": "Thuram", "posicao": "LD", "posicaoAlternativa": "ZAG", "forca": 90, "velocidade": 86, "tecnica": 84, "selecao": "França", "pais": "França", "anoCopa": 1998 },
+        { "id": "fr98-3", "nome": "Desailly", "posicao": "ZAG", "forca": 90, "velocidade": 80, "tecnica": 84, "selecao": "França", "pais": "França", "anoCopa": 1998 },
+        { "id": "fr98-4", "nome": "Blanc", "posicao": "ZAG", "forca": 88, "velocidade": 78, "tecnica": 84, "selecao": "França", "pais": "França", "anoCopa": 1998 },
+        { "id": "fr98-5", "nome": "Lizarazu", "posicao": "LE", "forca": 86, "velocidade": 86, "tecnica": 84, "selecao": "França", "pais": "França", "anoCopa": 1998 },
+        { "id": "fr98-6", "nome": "Deschamps", "posicao": "VOL", "forca": 86, "velocidade": 80, "tecnica": 84, "selecao": "França", "pais": "França", "anoCopa": 1998 },
+        { "id": "fr98-7", "nome": "Petit", "posicao": "MC", "posicaoAlternativa": "VOL", "forca": 88, "velocidade": 82, "tecnica": 86, "selecao": "França", "pais": "França", "anoCopa": 1998 },
+        { "id": "fr98-8", "nome": "Zidane", "posicao": "ME", "posicaoAlternativa": "MC", "forca": 96, "velocidade": 84, "tecnica": 97, "selecao": "França", "pais": "França", "anoCopa": 1998 },
+        { "id": "fr98-9", "nome": "Djorkaeff", "posicao": "ME", "forca": 88, "velocidade": 84, "tecnica": 90, "selecao": "França", "pais": "França", "anoCopa": 1998 },
+        { "id": "fr98-10", "nome": "Henry", "posicao": "CA", "posicaoAlternativa": "AE", "forca": 90, "velocidade": 92, "tecnica": 88, "selecao": "França", "pais": "França", "anoCopa": 1998 },
+        { "id": "fr98-11", "nome": "Guivarc'h", "posicao": "CA", "forca": 78, "velocidade": 78, "tecnica": 78, "selecao": "França", "pais": "França", "anoCopa": 1998 }
+      ]
+    },
+    {
+      "id": "argentina-1986",
+      "pais": "Argentina",
+      "ano": 1986,
+      "jogadores": [
+        { "id": "ar86-1", "nome": "Pumpido", "posicao": "GOL", "forca": 86, "velocidade": 68, "tecnica": 82, "selecao": "Argentina", "pais": "Argentina", "anoCopa": 1986 },
+        { "id": "ar86-2", "nome": "Batista", "posicao": "LD", "forca": 82, "velocidade": 82, "tecnica": 80, "selecao": "Argentina", "pais": "Argentina", "anoCopa": 1986 },
+        { "id": "ar86-3", "nome": "Brown", "posicao": "ZAG", "forca": 84, "velocidade": 76, "tecnica": 80, "selecao": "Argentina", "pais": "Argentina", "anoCopa": 1986 },
+        { "id": "ar86-4", "nome": "Ruggeri", "posicao": "ZAG", "forca": 86, "velocidade": 78, "tecnica": 82, "selecao": "Argentina", "pais": "Argentina", "anoCopa": 1986 },
+        { "id": "ar86-5", "nome": "Olarticoechea", "posicao": "LE", "forca": 82, "velocidade": 84, "tecnica": 80, "selecao": "Argentina", "pais": "Argentina", "anoCopa": 1986 },
+        { "id": "ar86-6", "nome": "Enrique", "posicao": "MC", "forca": 84, "velocidade": 82, "tecnica": 84, "selecao": "Argentina", "pais": "Argentina", "anoCopa": 1986 },
+        { "id": "ar86-7", "nome": "Burruchaga", "posicao": "MC", "forca": 86, "velocidade": 84, "tecnica": 86, "selecao": "Argentina", "pais": "Argentina", "anoCopa": 1986 },
+        { "id": "ar86-8", "nome": "Giusti", "posicao": "VOL", "forca": 84, "velocidade": 80, "tecnica": 82, "selecao": "Argentina", "pais": "Argentina", "anoCopa": 1986 },
+        { "id": "ar86-9", "nome": "Maradona", "posicao": "ME", "forca": 98, "velocidade": 90, "tecnica": 98, "selecao": "Argentina", "pais": "Argentina", "anoCopa": 1986 },
+        { "id": "ar86-10", "nome": "Valdano", "posicao": "CA", "forca": 86, "velocidade": 84, "tecnica": 86, "selecao": "Argentina", "pais": "Argentina", "anoCopa": 1986 },
+        { "id": "ar86-11", "nome": "Caniggia", "posicao": "AE", "forca": 86, "velocidade": 92, "tecnica": 84, "selecao": "Argentina", "pais": "Argentina", "anoCopa": 1986 }
+      ]
+    },
+    {
+      "id": "inglaterra-1966",
+      "pais": "Inglaterra",
+      "ano": 1966,
+      "jogadores": [
+        { "id": "en66-1", "nome": "Banks", "posicao": "GOL", "forca": 90, "velocidade": 65, "tecnica": 86, "selecao": "Inglaterra", "pais": "Inglaterra", "anoCopa": 1966 },
+        { "id": "en66-2", "nome": "Cohen", "posicao": "LD", "forca": 84, "velocidade": 82, "tecnica": 80, "selecao": "Inglaterra", "pais": "Inglaterra", "anoCopa": 1966 },
+        { "id": "en66-3", "nome": "Moore", "posicao": "ZAG", "forca": 92, "velocidade": 78, "tecnica": 88, "selecao": "Inglaterra", "pais": "Inglaterra", "anoCopa": 1966 },
+        { "id": "en66-4", "nome": "Jack Charlton", "posicao": "ZAG", "forca": 86, "velocidade": 76, "tecnica": 80, "selecao": "Inglaterra", "pais": "Inglaterra", "anoCopa": 1966 },
+        { "id": "en66-5", "nome": "Wilson", "posicao": "LE", "forca": 82, "velocidade": 82, "tecnica": 80, "selecao": "Inglaterra", "pais": "Inglaterra", "anoCopa": 1966 },
+        { "id": "en66-6", "nome": "Stiles", "posicao": "VOL", "forca": 84, "velocidade": 80, "tecnica": 80, "selecao": "Inglaterra", "pais": "Inglaterra", "anoCopa": 1966 },
+        { "id": "en66-7", "nome": "Ball", "posicao": "MC", "forca": 86, "velocidade": 82, "tecnica": 86, "selecao": "Inglaterra", "pais": "Inglaterra", "anoCopa": 1966 },
+        { "id": "en66-8", "nome": "Peters", "posicao": "MC", "forca": 84, "velocidade": 84, "tecnica": 84, "selecao": "Inglaterra", "pais": "Inglaterra", "anoCopa": 1966 },
+        { "id": "en66-9", "nome": "Hunt", "posicao": "CA", "forca": 86, "velocidade": 84, "tecnica": 84, "selecao": "Inglaterra", "pais": "Inglaterra", "anoCopa": 1966 },
+        { "id": "en66-10", "nome": "Hurst", "posicao": "CA", "forca": 88, "velocidade": 84, "tecnica": 86, "selecao": "Inglaterra", "pais": "Inglaterra", "anoCopa": 1966 },
+        { "id": "en66-11", "nome": "Connelly", "posicao": "AE", "forca": 82, "velocidade": 86, "tecnica": 82, "selecao": "Inglaterra", "pais": "Inglaterra", "anoCopa": 1966 }
+      ]
+    },
+    {
+      "id": "holanda-1974",
+      "pais": "Holanda",
+      "ano": 1974,
+      "jogadores": [
+        { "id": "nl74-1", "nome": "Jongbloed", "posicao": "GOL", "forca": 82, "velocidade": 68, "tecnica": 80, "selecao": "Holanda", "pais": "Holanda", "anoCopa": 1974 },
+        { "id": "nl74-2", "nome": "Krol", "posicao": "LE", "posicaoAlternativa": "LD", "forca": 88, "velocidade": 84, "tecnica": 86, "selecao": "Holanda", "pais": "Holanda", "anoCopa": 1974 },
+        { "id": "nl74-3", "nome": "Rijsbergen", "posicao": "ZAG", "forca": 84, "velocidade": 78, "tecnica": 80, "selecao": "Holanda", "pais": "Holanda", "anoCopa": 1974 },
+        { "id": "nl74-4", "nome": "Haan", "posicao": "ZAG", "forca": 86, "velocidade": 78, "tecnica": 84, "selecao": "Holanda", "pais": "Holanda", "anoCopa": 1974 },
+        { "id": "nl74-5", "nome": "Suurbier", "posicao": "LD", "forca": 84, "velocidade": 84, "tecnica": 82, "selecao": "Holanda", "pais": "Holanda", "anoCopa": 1974 },
+        { "id": "nl74-6", "nome": "Neeskens", "posicao": "MC", "forca": 90, "velocidade": 84, "tecnica": 88, "selecao": "Holanda", "pais": "Holanda", "anoCopa": 1974 },
+        { "id": "nl74-7", "nome": "Jansen", "posicao": "MC", "forca": 84, "velocidade": 82, "tecnica": 84, "selecao": "Holanda", "pais": "Holanda", "anoCopa": 1974 },
+        { "id": "nl74-8", "nome": "Cruyff", "posicao": "ME", "forca": 97, "velocidade": 90, "tecnica": 98, "selecao": "Holanda", "pais": "Holanda", "anoCopa": 1974 },
+        { "id": "nl74-9", "nome": "Rep", "posicao": "CA", "forca": 90, "velocidade": 88, "tecnica": 88, "selecao": "Holanda", "pais": "Holanda", "anoCopa": 1974 },
+        { "id": "nl74-10", "nome": "Rensenbrink", "posicao": "AE", "forca": 88, "velocidade": 86, "tecnica": 90, "selecao": "Holanda", "pais": "Holanda", "anoCopa": 1974 },
+        { "id": "nl74-11", "nome": "De Jong", "posicao": "CA", "forca": 82, "velocidade": 82, "tecnica": 80, "selecao": "Holanda", "pais": "Holanda", "anoCopa": 1974 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    background-color: #f5f0e6;
+    color: #1a1a1a;
+    @apply font-body antialiased;
+  }
+}
+
+@layer components {
+  .retro-btn {
+    @apply inline-flex items-center justify-center gap-2 border-2 border-ink bg-brand-red px-6 py-3 font-condensed text-sm font-bold uppercase tracking-wider text-white shadow-retro-red transition-all hover:translate-y-0.5 hover:shadow-none active:translate-y-1;
+  }
+
+  .retro-btn-outline {
+    @apply inline-flex items-center justify-center gap-2 border-2 border-ink bg-white px-4 py-2 font-condensed text-xs font-bold uppercase tracking-wider text-ink shadow-retro-sm transition-all hover:translate-y-0.5 hover:shadow-none;
+  }
+
+  .retro-btn-dark {
+    @apply inline-flex items-center justify-center gap-2 border-2 border-ink bg-ink px-4 py-2 font-condensed text-xs font-bold uppercase tracking-wider text-white;
+  }
+
+  .pill-btn {
+    @apply border-2 border-ink px-3 py-1.5 font-condensed text-xs font-bold uppercase tracking-wide transition-colors;
+  }
+
+  .pill-btn-active {
+    @apply bg-ink text-white;
+  }
+
+  .pill-btn-inactive {
+    @apply bg-white text-ink;
+  }
+
+  .pill-btn-inactive:hover {
+    background-color: #ebe4d6;
+  }
+
+  .divider-h {
+    @apply border-t-2 border-ink;
+  }
+
+  .pitch-stripes {
+    background: repeating-linear-gradient(
+      0deg,
+      #2d6a4f,
+      #2d6a4f 8%,
+      #40916c 8%,
+      #40916c 16%
+    );
+  }
+}

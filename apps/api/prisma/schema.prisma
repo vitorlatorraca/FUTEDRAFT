@@ -1,0 +1,87 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")
+  directUrl = env("DIRECT_URL")
+}
+
+model Selecao {
+  id         String    @id
+  pais       String
+  ano        Int
+  forcaMedia Float     @default(0)
+  createdAt  DateTime  @default(now())
+  jogadores  Jogador[]
+
+  @@unique([pais, ano])
+  @@index([ano])
+}
+
+model Jogador {
+  id                 String   @id
+  nome               String
+  posicao            String
+  posicaoAlternativa String?
+  forca              Int
+  velocidade         Int      @default(70)
+  tecnica            Int      @default(70)
+  pais               String
+  anoCopa            Int
+  foto               String?
+  selecaoId          String
+  createdAt          DateTime @default(now())
+
+  selecao Selecao @relation(fields: [selecaoId], references: [id], onDelete: Cascade)
+
+  @@index([selecaoId])
+  @@index([pais, anoCopa])
+  @@index([posicao])
+}
+
+model Partida {
+  id            String   @id @default(cuid())
+  userId        String?
+  apelido       String?
+  formacao      String
+  forcaTime     Float
+  faseAlcancada String
+  venceu        Boolean
+  pontuacao     Int      @default(0)
+  placar        Json
+  createdAt     DateTime @default(now())
+
+  user User? @relation(fields: [userId], references: [id])
+}
+
+model User {
+  id        String    @id @default(cuid())
+  email     String?   @unique
+  apelido   String?
+  partidas  Partida[]
+  createdAt DateTime  @default(now())
+}
+
+model Room {
+  id        String       @id @default(cuid())
+  code      String       @unique
+  hostId    String
+  createdAt DateTime     @default(now())
+  players   RoomPlayer[]
+}
+
+model RoomPlayer {
+  id        String   @id @default(cuid())
+  roomId    String
+  name      String
+  pontuacao Int?
+  venceu    Boolean?
+  status    String   @default("waiting")
+  createdAt DateTime @default(now())
+
+  room Room @relation(fields: [roomId], references: [id], onDelete: Cascade)
+
+  @@index([roomId])
+}
